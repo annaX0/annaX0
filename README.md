@@ -1,6 +1,7 @@
-- 👩‍💻Apaixonada por tecnologia.
+- 👩‍💻 Sou estudante da saúde e apaixonada por técnologia.
 - 💻 Migrando da saúde para desenvolvimento web.
 - 🖱 Aprendendo programação focada em front-end.
+
 
 ## Hello word, eu sou a Anna.
  <div>
