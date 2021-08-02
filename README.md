@@ -1,4 +1,4 @@
-- 👩‍💻Apaixonada por técnologia.
+- 👩‍💻Apaixonada por tecnologia.
 - 💻 Migrando da saúde para desenvolvimento web.
 - 🖱 Aprendendo programação focada em front-end.
 
