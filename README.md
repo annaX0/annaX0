@@ -1,4 +1,4 @@
-- 👩‍💻 Sou estudante da saúde e apaixonada por técnologia.
+- 👩‍💻 Sou estudante da saúde e apaixonada por tecnologia.
 - 💻 Migrando da saúde para desenvolvimento web.
 - 🖱 Aprendendo programação focada em front-end.
 
