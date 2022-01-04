@@ -16,7 +16,7 @@
   <a href = "mailto:anna.silva9020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target=""></a>
   <a href="https://www.linkedin.com/in/anna-silva-43964a138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=""></a> 
 
-   ![Snake animation](https://github.com/annaX0/annaX0/blob/main/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/annaX0/annaX0/blob/main/github-contribution-grid-snake.svg)
  
  
 </div>
