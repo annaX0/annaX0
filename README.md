@@ -1,6 +1,6 @@
 ## Hello world, eu sou a Anna.
 - 👩‍🎓 Analise e desenvolvimento de sistemas - Facens
-- 👩‍💻 Sou estudante ex da saúde e apaixonada por tecnologia.
+- 👩‍💻 Sou ex estudante da saúde e apaixonada por tecnologia.
 - 💻 Migrando da saúde para desenvolvimento web.
 - 🖱 Aprendendo programação focada em front-end.
 
